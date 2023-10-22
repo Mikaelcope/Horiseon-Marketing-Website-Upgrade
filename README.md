@@ -20,6 +20,10 @@ Your website must meet accessibility standards. You can achieve this completing 
 * Heading attributes fall in sequential order
 * Title elements contain a concise, descriptive title
 
+**Changes to Original HTML and CSS**
+    *Changed the tile in the HTML.
+    
+    
 [Installation]
 Information provided HTML, CSS, README.
 Copy HTML,CSS and README into working repositiory and push to GitHub.
