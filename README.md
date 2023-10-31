@@ -1,36 +1,41 @@
 # Horiseon-Marketing-Website-Upgrade
 
-## Upgrade of Horiseon Marketing website for improved SEO and Code semantics. 
+## Discription
+Upgrade of Horiseon Marketing website for improved SEO and Code semantics. 
 
-### User Story
+### Installation
+Click on the following link to access the URL:
+https://mikaelcope.github.io/Horiseon-Marketing-Website-Upgrade/
 
-```
-AS A marketing agency
-I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines
-```
+### Usage
+Once the URL has loaded this is what you will see: 
+![alt text](/assets/images/Screenshot.png)
+Using the navigational buttons on the top right of the page you can navigate through the URL. <br>
+Scroll up and down to see further content. <br>
+Alt tabs have been included for images.
 
-### Acceptance Criteria
+### Credits
+EdX front end web developement course.
 
-Your website must meet accessibility standards. You can achieve this completing the following:
+### License
+MIT License
 
-* Semantic HTML elements can be found throughout the source code
-* HTML elements follow a logical structure independent of styling and positioning
-* Image and icon elements contain accessible `alt` attributes
-* Heading attributes fall in sequential order
-* Title elements contain a concise, descriptive title
+Copyright (c) [2023] [Mikael Cope]
 
-**Changes to Original HTML and CSS**
-    *Changed the tile in the HTML.
-    
-    
-[Installation]
-Information provided HTML, CSS, README.
-Copy HTML,CSS and README into working repositiory and push to GitHub.
-To edit work in VS Code.
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-[Usage]
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-[Credits]
-
-[Lisence]
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
